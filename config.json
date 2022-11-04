@@ -1,15 +1,15 @@
 {
-  "main_token": "", 
-  "mongodb_url": "", //mongo db URL
-  "developers": ["", ""], //developers ID
+  "main_token": "MTAzNzk2ODkxMjUyNjA4MjA0OA.G1YPV1.bANQPVJ9Y5IrMxVKBjdZJYOr7HBjf_JMBC_r20", 
+  "mongodb_url": "mongodb+srv://oddcoder:public@cluster0.qp2djfl.mongodb.net/?retryWrites=true&w=majority", //mongo db URL
+  "developers": ["931189125833453608", "931189125833453608"], //developers ID
   "datadogApiKey": "", // for statistics (optional)
   "dashboard":"false", 
-  "prefix":"p!", //prefix
+  "prefix":"$", //prefix
   "arc":"",//arc.io source (optional)
-  "youtube_key":"", //youtube api key from https://console.cloud.google.com/apis/
-  "cat_api_key":"",// https://thecatapi.com/signup
-  "webhook_id":"", //read down
-  "webhook_url":"" //read down
+  "youtube_key":"AIzaSyCugcpVn3q3r9CmuV6xHu8yLydvREXL4oQ", //youtube api key from https://console.cloud.google.com/apis/
+  "cat_api_key":"589b8eb2-0184-4577-8309-c2ecf0fb102b",// https://thecatapi.com/signup
+  "webhook_id":"816749354005299310", //read down
+  "webhook_url":"kxlyH1zDXyJUZxzYfzbfULggsWqXW0kkKsC-uHQ0ujm4pBJC6EBbysBx1ycnMiz9OujI" //read down
 }
 
 
